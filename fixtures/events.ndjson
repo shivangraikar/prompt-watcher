@@ -1,0 +1,6 @@
+{"agent":"codex","captured_at":"2026-11-12T17:00:01Z","session_id":"alpha","event_id":"1","type":"user_message","text":"Add a greeting."}
+{invalid json}
+{"agent":"codex","captured_at":"2026-11-12T17:00:01Z","session_id":"alpha","event_id":"1","type":"user_message","text":"Add a greeting."}
+
+{"agent":"claude-code","captured_at":"2026-11-12T17:00:02Z","session_id":"beta","event_id":"1","type":"user_message","text":"Explain the test."}
+{"agent":"codex","captured_at":"2026-11-12T17:00:03Z","session_id":"alpha","event_id":"2","type":"user_message","text":"Add a greeting."}
